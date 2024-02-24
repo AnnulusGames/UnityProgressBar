@@ -253,7 +253,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7444871243681850445, guid: bc18d21d0f0c641b78c2ba21c0e1cb64, type: 3}
       propertyPath: m_Name
-      value: Progress Bar - Streach
+      value: Progress Bar - Stretch
       objectReference: {fileID: 0}
     - target: {fileID: 7455365893263247464, guid: bc18d21d0f0c641b78c2ba21c0e1cb64, type: 3}
       propertyPath: value

@@ -9,7 +9,7 @@ namespace UnityProgressBar
         public enum FillMode
         {
             FillAmount,
-            Streach
+            Stretch
         }
 
         enum Direction
@@ -51,7 +51,7 @@ namespace UnityProgressBar
                 case FillMode.FillAmount:
                     fillImage.fillAmount = GetNormalizedValue();
                     break;
-                case FillMode.Streach:
+                case FillMode.Stretch:
                     var zero = Vector2.zero;
                     var one = Vector2.one;
 

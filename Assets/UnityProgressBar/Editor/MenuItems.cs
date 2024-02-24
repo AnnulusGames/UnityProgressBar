@@ -21,10 +21,10 @@ namespace UnityProgressBar.Editor
             CreateUIItem(path, "Circular Progress Bar");
         }
 
-        [MenuItem("GameObject/UI/Progress Bar/Progress Bar - Streach")]
-        public static void CreateStreachProgressBar()
+        [MenuItem("GameObject/UI/Progress Bar/Progress Bar - Stretch")]
+        public static void CreateStretchProgressBar()
         {
-            var path = "Packages/com.annulusgames.ugui-progress-bar/Editor/DefaultAssets/Progress Bar - Streach.prefab";
+            var path = "Packages/com.annulusgames.ugui-progress-bar/Editor/DefaultAssets/Progress Bar - Stretch.prefab";
             CreateUIItem(path, "Progress Bar");
         }
 
