@@ -4,6 +4,7 @@ using UnityEngine.UI;
 namespace UnityProgressBar
 {
     [AddComponentMenu("UI/Progress Bar")]
+    [SelectionBase]
     public sealed class ProgressBar : ProgressBarBase
     {
         public enum FillMode
